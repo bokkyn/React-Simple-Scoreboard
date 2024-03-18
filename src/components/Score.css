@@ -1,0 +1,9 @@
+.score {
+    font-family: Arial, sans-serif;
+    font-size: 3em;
+    color: white;
+    margin:5px;
+    display: flex;
+    flex-direction: row;
+    text-wrap: nowrap;
+  }

@@ -1,0 +1,14 @@
+.imgParent {
+    display:flex;
+    flex-direction:row;
+    justify-content: flex-start;
+
+}
+
+.ClubIcon {
+    display: flex;
+    width: 100px;
+    height: 100px;
+    border-radius: 5%;
+ /* Optional: Add some margin between icons */
+}
